@@ -1,6 +1,6 @@
 # Group Project: The Determinants of Popular Songs 
 
-**Author**: Frederic Barz, Franca Boeglin and Emile Champagne
+**Group members**: Frederic Barz, Franca Boeglin and Emile Champagne
 
 **Course**: Programming with Advanced Computer Languages Group Project 
 
