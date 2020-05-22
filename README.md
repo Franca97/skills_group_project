@@ -9,6 +9,6 @@
 **Dataset**: Dataset is called Top10s.csv. It is retrieved from kaggle https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year 
 
 
-* Link to the project description (word document)
-* Linkt to the project description (pdf document)
-* Linkt to the coding file (has to be launched in jupyter notebook)
+* Link to the project description (word document) https://github.com/Franca97/skills_group_project/blob/master/Project_Description.docx
+* Link to the project description (pdf document)
+* Link to the coding file (has to be launched in jupyter notebook)
