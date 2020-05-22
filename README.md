@@ -14,3 +14,4 @@
 * Link to the project description (word document) https://github.com/Franca97/skills_group_project/blob/master/Project_Description.docx
 * Link to the project description (pdf document)
 * Link to the coding file (has to be launched in jupyter notebook)
+https://github.com/Franca97/skills_group_project/blob/master/group.project.ipynb
